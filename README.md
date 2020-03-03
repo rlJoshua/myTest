@@ -27,3 +27,6 @@ Nous devons créer un blog communautaire en 1 journée.
 - Email : joshua@gmail.com
 - Password : skywalk
 
+Suite à des soucis d'installation de project, j'ai pu commencé faire le site à 14h.
+Merci de votre compréhension.
+
