@@ -4,6 +4,7 @@ Projet partiel du 03 mars 2019
 
 Nous devons créer un blog communautaire en 1 journée.
 
+
 ### Base de donnée
 
 - DATABASE = mytest
